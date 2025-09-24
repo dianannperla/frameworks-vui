@@ -1,0 +1,14 @@
+{
+  "name": "frameworks-vui",
+  "version": "1.0.0",
+  "description": "Một dự án để tìm hiểu về các framework frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
